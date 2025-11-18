@@ -88,6 +88,14 @@
     "18": {
       "api": "https://api.bwzyz.com/api.php/provide/vod",
       "name": "18"
+    },
+    "fantaiying": {
+      "api": "http://www.饭太硬.com/tv",
+      "name": "饭太硬"
+    },
+    "wangpan": {
+      "api": "http://47.96.82.41:8/api.json",
+      "name": "网盘线路"
     }
   }
 }
